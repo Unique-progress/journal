@@ -1,2 +1,4 @@
 node_modules/
 .idea
+.vitpress/dist/
+.vitpress/cache/
